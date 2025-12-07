@@ -1,1 +1,1 @@
-pyowo-importer
+pyowo_importer

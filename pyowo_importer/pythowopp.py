@@ -9,7 +9,7 @@ import os
 import string
 import sys
 
-from stwings_with_awwows import *
+from .stwings_with_awwows import *
 
 #######################################
 # CONSTAWANTS
